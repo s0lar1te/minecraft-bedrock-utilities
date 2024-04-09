@@ -1,0 +1,75 @@
+0.5.0
+ -craft oak slabs which are actually petrfified oak slabs
+ -activate a netherreactor core (watch a youtube video if you dont know how) and collect the sugar cane spawned by it
+ -these sugar canes are actually sugar cane tiles not sugar cane items and they do not stack (minecraft:reeds)
+0.6.0
+ -craft a cake and place it (continued in 0.17.0.2)
+ -craft a stonecutter with 4 cobblestone in a square (this is minecraft:stonecutter but the regular stonecutter is minecraft:stonecutter_block)
+ -activate a nether reactor core and log out while the glowing obsidian is still present (continued in 1.0.0.16)
+0.17.0.2
+ -use a silk touch tool on chorus stems to obtain them
+ -mine the ckae from 0.6.0 with anything and it will drop minecraft:info_update2
+1.0.0.16
+ -mine the glowing obsidian from 0.6.0 with any pickaxe
+ -mine a furnace with a silk touch pickaxe whilst it is lit
+1.1.5.0
+ -use mining block transfer to get a moving block (silk touch efficiency 5 required) https://youtu.be/Idv-LM_lQfM?si=EuFEdr_mROYxYbAe
+1.2.5.0
+ -mine a spawner with any pickaxe (does not need silk touch but could use iit to be safe)
+1.2.6.55
+ -obtain lingering decay potion by using mobile ui and click on its crafting recipe and switching the red potion placeholder with any item
+1.2.13.54
+ -water log an end portal to obtain it
+ -water log an end gateway to obtain it (using a dispenser)
+1.2.13.8
+ -trade with 2 librarians for a riptide 3 and imapling 5 book (requires experiments)
+ -trade with 2 librarians for a curse of binding book and a curse of vanishing book
+ -enchant a pumpkin with curse of binding and curse of vanishing
+1.2.14.0
+ -the carved pumpkin with curse of binding and curse of vanishing will have converted to a regular pumpkin with loyalty 1 and channeling 1
+ -enchant the carved pumpkin with the riptide 3 and impaling 5 books which will have converted to vanishing 3 and bnding 5
+1.5.0.14 
+ -the carved pumpkin will have converted to a regular pumpkin
+ -obtain flowing water, water, flowing lava, lava shown here https://youtu.be/Idv-LM_lQfM?si=EuFEdr_mROYxYbAe
+1.16.0.60
+ -mine a block under nether sprouts which will cause a nether sprout tile to drop (requires nether update experiment)
+1.16.40.2
+ -mine a respawn anchor that has been lit once, twice, 3 times and 4 times with silk touch droping a lit respawn anchor of a different level each time
+ -GBC
+1.16.220.51
+ -craft cut copper blocks and place them (requires experiments)
+1.16.230
+ -mine the cut copper blocks from 1.16.220.51 with anything dropping an unknown block
+ -place powder snow inside of a bubble column and then push it with a piston (requires experiments)
+1.17.32.2
+ -find a tree room in a woodland mansion, it will have a leather cap with the efficiency 1 enchantment
+ -find a fake end portal room in a woodland mansion, mine the tnt and in the chest will be 2 black glow sticks
+ -obtain nether portal blocks using mining block transfer shown here:https://youtu.be/XsgvbR2IzU0?si=ve1PXfnJU5TAv7xk
+1.18.30.4
+ -find an ancient city and look for floating sculk veins, note down the coordinates of the floating veins (requires experiments)
+1.19.83.1
+ -find a tree rooom in a woodland mansion and in the chest will be a leather tunic with the efficiency 1 enchantment
+1.20.41.2
+ -find a tree rooom in a woodland mansion and in the chest will be a pair of leather leggings with the efficiency 1 enchantment
+1.20.51.1
+ -push an open barrel with a piston and mine it with silk touch
+ -do the regen dupe with mob heads placed on 5 different faces of a block and mine them with silk touch (will stack so be careful) https://youtu.be/IPCpwxhccsg?si=mbfPbmfymoPtjBY1
+ -obtain bedrock shown here: https://youtu.be/grsIDCVX4E8?si=-jCrUrfNqqts7PZR
+1.20.62.1
+ -use mining block transfer to obtain a bubble column shown here: https://youtu.be/ZGletcyKdYY?si=BsulQVAcLAe5mDln
+ -find a tree rooom in a woodland mansion and in the chest will be a pair of leather boots with the efficiency 1 enchantment
+ -enable 1.21 experiment and find a tree rooom in a woodland mansion and in the chest will be a chainmail helmet with the efficiency 1 enchantment
+1.20.72.1
+ -go to the ancient city from 1.18.30.4 and mine the block under the floating sculk vein to obtain a structure void
+ -enchant shears with silk touch
+ -enchant compass, lodestone compass, recovery compass with curse of vanishing
+ -obtain sus sand and gravel shown here: https://youtu.be/srD3JmMr7EA?si=yXaFHvYykMFpQCgU
+ -find tallgrass in a village savannah chest and large fern in a taiga village chest
+ -using anvil exploit texture pack rename an item with multiple lines and over the normal rename limit (include symbols to as an extra!)
+ -trade with a fletcher for wither II arrows (villager trade veiw exploit helps with this)
+ -kill the ender dragon twice for 2 dragon eggs
+ -find a tree rooom in a woodland mansion and in the chest will be a chainmail chestplate with the efficiency 1 enchantment (requires experiments)
+ -find a meadow biome and shear the grass until you get a grass that says 'fern' (this is getting reverted :( in 1.21)
+1.21.20
+ -find a tree rooom in a woodland mansion and in the chest will be a pair of chainmail leggings with the efficiency 1 enchantment (requires experiments)
+ -find a trial chamber and mine the pots with your fist and they will drops pots with a loot table attached to them (find ones with sherds to make them even rarer!)
