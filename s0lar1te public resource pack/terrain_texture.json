@@ -1,0 +1,162 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "num_mip_levels": 4,
+  "padding": 8,
+  "texture_data": {
+    "anvil_top_damaged_x": {
+      "textures": [
+        "textures/blocks/anvil_top_damaged_0",
+        "textures/blocks/anvil_top_damaged_1",
+        "textures/blocks/anvil_top_damaged_2",
+        "textures/blocks/anvil_top_damaged_3"
+      ]
+    },
+    "chemical_heat": {
+      "textures": "textures/blocks/chemical_heat"
+    },
+    "client_request_placeholder": {
+      "textures": "textures/blocks/client_request_placeholder"
+    },
+    "infested_blocks": {
+      "textures": [
+        "textures/blocks/infested/cobblestone",
+        "textures/blocks/infested/stone_bricks",
+        "textures/blocks/infested/mossy_stone_bricks",
+        "textures/blocks/infested/cracked_stone_bricks",
+        "textures/blocks/infested/chiseled_stone_bricks",
+        "textures/blocks/infested/stone"
+      ]
+    },
+    "infested_deepslate": {
+      "textures": "textures/blocks/infested/deepslate"
+    },
+    "infested_deepslate_top": {
+      "textures": "textures/blocks/infested/deepslate_top"
+    },
+    "info_update": {
+      "textures": "textures/blocks/info_update"
+    },
+    "info_update2": {
+      "textures": "textures/blocks/info_update2"
+    },
+    "invisibleBedrock": {
+      "textures": "textures/blocks/invisibleBedrock"
+    },
+    "movingBlock": {
+      "textures": "textures/blocks/movingBlock"
+    },
+    "reserved6_back": {
+      "textures": "textures/blocks/reserved6_back"
+    },
+    "reserved6_bottom": {
+      "textures": "textures/blocks/reserved6_bottom"
+    },
+    "reserved6_front": {
+      "textures": "textures/blocks/reserved6_front"
+    },
+    "reserved6_side": {
+      "textures": "textures/blocks/reserved6_side"
+    },
+    "reserved6_side2": {
+      "textures": "textures/blocks/reserved6_side2"
+    },
+    "reserved6_top": {
+      "textures": "textures/blocks/reserved6_top"
+    },
+    "stone_slab_bottom": {
+      "textures": [
+        "textures/blocks/stone_slab_top",
+        "textures/blocks/sandstone_bottom",
+        "textures/blocks/petrified_oak_slab",
+        "textures/blocks/cobblestone",
+        "textures/blocks/brick",
+        "textures/blocks/stonebrick",
+        "textures/blocks/quartz_block_bottom",
+        "textures/blocks/nether_brick"
+      ]
+    },
+    "stone_slab_side": {
+      "textures": [
+        "textures/blocks/stone_slab_side",
+        "textures/blocks/sandstone_normal",
+        "textures/blocks/petrified_oak_slab",
+        "textures/blocks/cobblestone",
+        "textures/blocks/brick",
+        "textures/blocks/stonebrick",
+        "textures/blocks/quartz_block_side",
+        "textures/blocks/nether_brick"
+      ]
+    },
+    "stone_slab_top": {
+      "textures": [
+        "textures/blocks/stone_slab_top",
+        "textures/blocks/sandstone_top",
+        "textures/blocks/petrified_oak_slab",
+        "textures/blocks/cobblestone",
+        "textures/blocks/brick",
+        "textures/blocks/stonebrick",
+        "textures/blocks/quartz_block_top",
+        "textures/blocks/nether_brick"
+      ]
+    },
+    "stonebrick": {
+      "textures": [
+        "textures/blocks/stonebrick",
+        "textures/blocks/stonebrick_mossy",
+        "textures/blocks/stonebrick_cracked",
+        "textures/blocks/stonebrick_carved",
+        "textures/blocks/stonebrick_smooth"
+      ]
+    },
+    "tallgrass": {
+      "textures": [
+        "textures/blocks/shrub",
+        "textures/blocks/tallgrass",
+        "textures/blocks/fern",
+        "textures/blocks/fern"
+      ]
+    },
+    "tallgrass_carried": {
+      "textures": [
+        "textures/blocks/shrub",
+        "textures/blocks/tallgrass_carried",
+        "textures/blocks/fern_carried",
+        "textures/blocks/fern_carried"
+      ]
+    },
+    "tnt_bottom": {
+      "textures": [
+        "textures/blocks/tnt_bottom",
+        "textures/blocks/tnt_bottom_underwater"
+      ]
+    },
+    "unknown": {
+      "textures": "textures/blocks/unknown"
+    },
+    "monster_egg": {
+      "textures": [
+        "textures/blocks/infested/cobblestone",
+        "textures/blocks/infested/stone_bricks",
+        "textures/blocks/infested/mossy_stone_bricks",
+        "textures/blocks/infested/cracked_stone_bricks",
+        "textures/blocks/infested/chiseled_stone_bricks",
+        "textures/blocks/infested/stone",
+        "textures/blocks/infested/deepslate_top",
+        "textures/blocks/infested/deepslate"
+      ]
+    },
+    "infested": {
+      "textures": [
+        "textures/blocks/infested/cobblestone",
+        "textures/blocks/infested/stone_bricks",
+        "textures/blocks/infested/mossy_stone_bricks",
+        "textures/blocks/infested/cracked_stone_bricks",
+        "textures/blocks/infested/chiseled_stone_bricks",
+        "textures/blocks/infested/stone",
+        "textures/blocks/infested/deepslate_top",
+        "textures/blocks/infested/deepslate"
+      ]
+    }
+  }
+}

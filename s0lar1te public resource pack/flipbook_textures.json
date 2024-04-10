@@ -1,0 +1,12 @@
+[
+  {
+    "atlas_tile": "chemical_heat",
+    "flipbook_texture": "textures/blocks/chemical_heat",
+    "ticks_per_frame": 10
+  },
+  {
+    "atlas_tile": "invisibleBedrock",
+    "flipbook_texture": "textures/blocks/invisibleBedrock",
+    "ticks_per_frame": 5
+  }
+]
