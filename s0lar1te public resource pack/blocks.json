@@ -1,0 +1,84 @@
+{
+  "chemical_heat": {
+    "textures": "chemical_heat"
+  },
+  "client_request_placeholder_block": {
+    "carried_textures": "client_request_placeholder",
+    "blockshape": "solid"
+  },
+  "fire": {
+    "blockshape": "block",
+    "textures": {
+      "down": "invisible_top",
+      "side": "fire_0",
+      "up": "invisible_top"
+    }
+  },
+  "infested_deepslate": {
+    "carried_textures": {
+      "down": "infested_deepslate_top",
+      "side": "infested_deepslate",
+      "up": "infested_deepslate_top"
+    },
+    "isotropic": {
+      "down": true,
+      "up": true
+    },
+    "sound": "deepslate"
+  },
+  "info_update": {
+    "sound": "gravel",
+    "textures": "info_update"
+  },
+  "info_update2": {
+    "sound": "gravel",
+    "textures": "info_update2"
+  },
+  "invisibleBedrock": {
+    "carried_textures": "invisibleBedrock",
+    "blockshape": "visible"
+  },
+  "monster_egg": {
+    "carried_textures": "infested_blocks",
+    "textures": "monster_egg"
+  },
+  "movingBlock": {
+    "textures": "movingBlock"
+  },
+  "reserved6": {
+    "textures": {
+      "down": "reserved6_bottom",
+      "east": "reserved6_side",
+      "north": "reserved6_front",
+      "south": "reserved6_back",
+      "up": "reserved6_top",
+      "west": "reserved6_side2"
+    }
+  },
+  "soul_fire": {
+    "blockshape": "block",
+    "textures": {
+      "down": "invisible_top",
+      "east": "soul_fire_0",
+      "north": "soul_fire_0",
+      "south": "soul_fire_0",
+      "up": "invisible_top",
+      "west": "soul_fire_0"
+    }
+  },
+  "unknown": {
+    "textures": "unknown"
+  },
+  "infested_deepslate": {
+    "isotropic": {
+      "down": true,
+      "up": true
+    },
+    "sound": "deepslate",
+    "textures": {
+      "down": "infested_deepslate_top",
+      "side": "infested_deepslate",
+      "up": "infested_deepslate_top"
+    }
+  }
+}
