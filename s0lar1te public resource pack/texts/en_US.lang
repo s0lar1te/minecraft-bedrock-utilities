@@ -558,3 +558,7 @@ item.spawn_egg.entity.ender_dragon.name=Ender Dragon Spawn Egg §a200 HP
 item.spawn_egg.entity.wither.name=Wither Spawn Egg §a600 HP
 item.spawn_egg.entity.trader_llama.name=Trader Llama Spawn Egg §a15-30 HP
 item.spawn_egg.entity.sniffer.name=Sniffer Spawn Egg §a14 HP    
+
+createWorldScreen.pvp=§cPVP
+createWorldScreen.educationtoggle=§eEdu Aspects
+createWorldScreen.hardcore=§cHardcore Mode
