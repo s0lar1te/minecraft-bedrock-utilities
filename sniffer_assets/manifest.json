@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"s0lar1te"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.16"
+			],
+			"dash": [
+				"github:bridge-core/dash-compiler#8fa35c73292f6382747d0f411fca26431a6d2c8e"
+			]
+		}
+	},
+	"header": {
+		"name": "§r§es0lar1te's Sniffer Plushie Dragon Head",
+		"description": "remodels and retextures the dragon head into a sniffer just smaller than a regular baby sniffer",
+		"min_engine_version": [
+			1,
+			18,
+			0
+		],
+		"uuid": "62f11b4b-98eb-44a0-8f4a-3f612dab66e6",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "186b3421-fc85-485f-925e-092b3388cd32",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
