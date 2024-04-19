@@ -3,12 +3,10 @@
  -activate a netherreactor core (watch a youtube video if you dont know how) and collect the sugar cane spawned by it
  -these sugar canes are actually sugar cane tiles not sugar cane items and they do not stack (minecraft:reeds)
 0.6.0
- -craft a cake and place it (continued in 0.17.0.2)
  -craft a stonecutter with 4 cobblestone in a square (this is minecraft:stonecutter but the regular stonecutter is minecraft:stonecutter_block)
  -activate a nether reactor core and log out while the glowing obsidian is still present (continued in 1.0.0.16)
 0.17.0.2
  -use a silk touch tool on chorus stems to obtain them
- -mine the cake from 0.6.0 with anything and it will drop minecraft:info_update2
 1.0.0.16
  -mine the glowing obsidian from 0.6.0 with any pickaxe
  -mine a furnace with a silk touch pickaxe whilst it is lit
