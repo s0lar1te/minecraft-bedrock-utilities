@@ -1,16 +1,18 @@
-0.7.2 (fullbright works in this verion so good for caving)
+0.5.0 (fullbright works in this verion so good for caving)
  -craft oak slabs which are actually petrfified oak slabs
- -craft a stonecutter with 4 cobblestone in a square (this is minecraft:stonecutter but the regular stonecutter is minecraft:stonecutter_block)
- -activate a netherreactor core (watch a youtube video if you dont know how) and collect the sugar cane spawned by it
- -these sugar canes are actually sugar cane tiles not sugar cane items and they do not stack (minecraft:reeds)
+ -craft a nether reactor core
+ -obtain sugar cane tiles (minecraft:reeds) by activating a nether reactor core and collecting the loot dropped by it
  -activate a nether reactor core and log out while the glowing obsidian is still present (continued in 1.0.0.16)
+0.12.0 (fullbright works in this verion so good for caving)
+ -make sure your activated nether reactor is still frozen
+ -craft a stonecutter with 4 cobblestone in a square (this is minecraft:stonecutter but the regular stonecutter is minecraft:stonecutter_block)
 0.17.0.1/0.17.0.2
  -use a silk touch tool on chorus stems to obtain them
 1.0.0.16
- -mine the glowing obsidian from 0.6.0 with any pickaxe
+ -mine the glowing obsidian from 0.5.0 with any pickaxe
  -mine a furnace with a silk touch pickaxe whilst it is lit
 1.1.5.0
- -use mining block transfer to get a moving block (silk touch efficiency 5 required) https://youtu.be/Idv-LM_lQfM?si=EuFEdr_mROYxYbAe
+ -use mining block transfer to get a moving block (silk touch efficiency 4/5 required) https://youtu.be/Idv-LM_lQfM?si=EuFEdr_mROYxYbAe
 1.2.5.0
  -mine a spawner with any pickaxe (does not need silk touch but could use it to be safe)
 1.2.6.55
