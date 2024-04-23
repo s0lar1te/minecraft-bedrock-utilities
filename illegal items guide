@@ -40,7 +40,7 @@
 1.16.220.51
  -craft cut copper blocks and place them (requires experiments)
 1.16.230.54
- -mine the cut copper blocks from 1.16.220.51 with anything dropping an unknown block
+ -mine the cut copper blocks from 1.16.220.51 with anything except itself dropping an unknown block
  -place powder snow inside of a bubble column and then push it with a piston (requires experiments) https://youtu.be/qBvycwTPF6g?si=OJOgd64ClG_jNqYk
 1.17.32.2
  -find a tree room in a woodland mansion, it will have a leather cap with the efficiency 1 enchantment
