@@ -1,7 +1,7 @@
 0.5.0
- -craft oak slabs which are actually petrfified oak slabs
+ -craft oak slabs which are actually petrfified oak slabs (this is being reverted in 1.21 grrr)
  -craft a nether reactor core
- -obtain sugar cane tiles (minecraft:reeds) by activating a nether reactor core and collecting the loot dropped by it
+ -obtain sugar cane tiles (minecraft:reeds) by activating a nether reactor core and collecting the loot dropped by it (this is being reverted in 1.21 grrr)
  -activate a nether reactor core and log out while the glowing obsidian is still present (continued in 1.0.0.16)
 0.12.0
  -make sure your activated nether reactor is still frozen
@@ -68,7 +68,7 @@
  -using anvil exploit texture pack rename an item with multiple lines and over the normal rename limit (include symbols to as an extra!)
  -trade with a fletcher for wither II arrows (villager trade veiw exploit helps with this)
  -find a tree rooom in a woodland mansion and in the chest will be a chainmail chestplate with the efficiency 1 enchantment (requires experiments)
- -find a meadow biome and shear the grass until you get a grass that says 'fern' (this is getting reverted :( in 1.21)
+ -find a meadow biome and shear the grass until you get a grass that says 'fern' (this is getting reverted in 1.21 grrr)
 1.21.0.21
  -find a trial chamber and mine the pots with your fist and they will drops pots with a loot table attached to them (find ones with sherds to make them even rarer!)
 1.21.0.22
