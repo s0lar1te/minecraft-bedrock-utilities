@@ -15,20 +15,12 @@
  -use mining block transfer to get a moving block (silk touch efficiency 4/5 required) https://youtu.be/Idv-LM_lQfM?si=EuFEdr_mROYxYbAe
 1.2.5.0
  -mine a spawner with any pickaxe to obtain it (does not need silk touch but could use it to be safe)
-1.2.6.55
- -obtain lingering decay potion by using mobile ui and click on its crafting recipe and switching the red potion placeholder with any item
 1.2.13.54
  -water log an end portal to obtain it
  -water log an end gateway to obtain it (using a dispenser)
-1.2.13.8
- -trade with 2 librarians for a riptide 3 and imapling 5 book (requires experiments)
- -trade with 2 librarians for a curse of binding book and a curse of vanishing book
  -enchant a pumpkin with curse of binding and curse of vanishing
-1.2.14.0
- -the carved pumpkin with curse of binding and curse of vanishing will have converted to a regular pumpkin with loyalty 1 and channeling 1
- -enchant the carved pumpkin with the riptide 3 and impaling 5 books which will have converted to vanishing 3 and bnding 5
-1.5.0.14 
- -the carved pumpkin will have converted to a regular pumpkin
+1.5.0.14
+ -the carved pumpkin with curse of binding and curse of vanishing will have converted to a regular pumpkin with those curses
  -obtain flowing water, water, flowing lava, lava shown here https://youtu.be/Idv-LM_lQfM?si=EuFEdr_mROYxYbAe
 1.16.0.60
  -mine a block under nether sprouts which will cause a nether sprout tile to drop (requires nether update experiment)
@@ -70,5 +62,7 @@
  -find a tree rooom in a woodland mansion and in the chest will be a chainmail chestplate with the efficiency 1 enchantment (requires experiments)
  -find a meadow biome and shear the grass until you get a grass that says 'fern' (this is getting reverted in 1.21 grrr)
  -find a trial chamber and mine the pots with your fist and they will drops pots with a loot table attached to them (requires experiments)(there are 3 bonus variants each with the flow, scrape and guster pottery sherd)
+1.21.0.23
+ -enchant a mace with at least density 5, breach 4 and smite 5
 1.21.0.24
  -find a tree rooom in a woodland mansion and in the chest will be a pair of chainmail leggings with the efficiency 1 enchantment (requires experiments)
