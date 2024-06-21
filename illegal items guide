@@ -59,7 +59,7 @@
 1.21.0.23
  -store any petrified oak slabs in a shulker and mine it before updating to this version, do not place down and open these shulker boxes until further notice or your petrified oak slabs will revert to normal oak slabs
  -enchant a mace with at least density 5, breach 4 and smite 5/bane of athropods 5, if you do so a maxed out mace would consist of 7 enchantments and curse of vaishing
-1.21.0.3
+1.21.1.3
  -petrified oaks slabs are safe to unpack and will convert from minecraft:stone_block_slab:2 to minecraft:petrified_oak_slab
  -enchant shears with silk touch
  -enchant compass, lodestone compass, recovery compass with curse of vanishing
