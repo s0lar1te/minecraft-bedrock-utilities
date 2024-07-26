@@ -2,6 +2,7 @@
 - bedrock illegal items guide: a guide to the order in which to do things to collect every illegal item in minecraft bedrock edition
 - java illegal itews guide: a guide to collect the main illegal blocks in java edition
 - s0lar1te resource pack - my resource pack (may not own all assets)
+- sniffer assets - resource pack assets that change the dragon heads model into a sniffer head
 
 credits:
 - https://github.com/p12h4 for some of the information in the illegals guide
