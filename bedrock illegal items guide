@@ -1,7 +1,7 @@
 0.5.0
  -craft oak slabs which are actually petrfified oak slabs
  -craft a nether reactor core
- -obtain sugar cane tiles (minecraft:reeds) by activating a nether reactor core and collecting the loot dropped by it
+ -!!!obtain sugar cane tiles (minecraft:reeds) by activating a nether reactor core and collecting the loot dropped by it
  -activate a nether reactor core and log out while the glowing obsidian is still present (continued in 1.0.0.16)
 0.12.0
  -make sure your activated nether reactor is still frozen
@@ -23,7 +23,7 @@
  -the carved pumpkin with curse of binding and curse of vanishing will have converted to a regular pumpkin with those curses
  -obtain flowing water, water, flowing lava, lava shown here https://youtu.be/Idv-LM_lQfM?si=EuFEdr_mROYxYbAe
 1.16.0.60
- -mine a block under nether sprouts which will cause a nether sprout tile to drop (requires nether update experiment)
+ -!!!mine a block under nether sprouts which will cause a nether sprout tile to drop (requires nether update experiment)
 1.16.40.2
  -mine a respawn anchor that has been lit once, twice, 3 times and 4 times with silk touch droping a lit respawn anchor of a different level each time
  -GBC list: 
@@ -46,7 +46,7 @@
  -find a tree rooom in a woodland mansion and in the chest will be a pair of leather leggings with the efficiency 1 enchantment
  -push an open barrel with a piston and mine it with silk touch
  -use mining block transfer to obtain a bubble column shown here: https://youtu.be/ZGletcyKdYY?si=BsulQVAcLAe5mDln
- -do the regen dupe with mob heads placed on 5 different faces of a block and mine them with silk touch (will stack so be careful) https://youtu.be/IPCpwxhccsg?si=mbfPbmfymoPtjBY1
+ -!!!do the regen dupe with mob heads placed on 5 different faces of a block and mine them with silk touch (will stack so be careful) https://youtu.be/IPCpwxhccsg?si=mbfPbmfymoPtjBY1
  -obtain bedrock shown here: https://youtu.be/grsIDCVX4E8?si=-jCrUrfNqqts7PZR
 1.20.62.1
  -find a tree rooom in a woodland mansion and in the chest will be a pair of leather boots with the efficiency 1 enchantment
@@ -59,9 +59,9 @@
  -store any petrified oak slabs in a shulker and mine it before updating to this version, do not place down and open these shulker boxes until further notice or your petrified oak slabs will revert to normal oak slabs
  -enchant a mace with at least density 5, breach 4 and smite 5/bane of athropods 5, if you do so a maxed out mace would consist of 7 enchantments and curse of vaishing
 1.21.2.2
+ -petrified oaks slabs are safe to unpack and will convert from minecraft:stone_block_slab:2 to minecraft:petrified_oak_slab
  -find a tree rooom in a woodland mansion and in the chest will be a pair of chainmail leggings with the efficiency 1 enchantment
 1.21.21.1 (current full release)
- -petrified oaks slabs are safe to unpack and will convert from minecraft:stone_block_slab:2 to minecraft:petrified_oak_slab
  -enchant shears with silk touch
  -enchant compass, lodestone compass, recovery compass with curse of vanishing
  -find tallgrass in a village savannah chest and large fern in a taiga village chest
@@ -70,4 +70,5 @@
  -obtain sus sand and gravel shown here: https://youtu.be/srD3JmMr7EA?si=yXaFHvYykMFpQCgU
  -find a tree rooom in a woodland mansion and in the chest will be a pair of chainmail boots with the efficiency 1 enchantment
 1.21.30.23
+ -[WARNING: END OF ALL TILES, ALL ITEMS THAT WILL BE LOST MARKED WITH !!!]
  -[NOT LEGIT YET REQUIRES BUNDLE EXPERIMENT] find a tree rooom in a woodland mansion and in the chest will be an iron helmet with the efficiency 1 enchantment
