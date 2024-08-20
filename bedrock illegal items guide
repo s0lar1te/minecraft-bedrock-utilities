@@ -18,6 +18,7 @@
 1.2.9.1
  -fill a shulker with 3 shulkers with 27 shulkers of 27 stacks of stone using a hopper, then empty your inventory pick up the shulker and one random item, swap he shulker and item in your inventory around to create piston arm and redstone wire ghost items
  -move the ghost items to your crafting grid whilst underwater so you drown and die to convert the ghost items into real items
+ -shulkers can be filled with shulkers using hoppers
 1.2.13.54
  -water log an end portal to obtain it
  -water log an end gateway to obtain it (using a dispenser)
