@@ -16,7 +16,7 @@
 1.2.5.0
  -mine a spawner with any pickaxe to obtain it (does not need silk touch but could use it to be safe)
 1.2.9.1
- -fill a shulker with 3 shulkers with 27 shulkers of 27 stacks of stone using a hopper, then empty your inventory pick up the shulker and one random item, swap he shulker and item in your inventory around to create piston arm and redstone wire ghost items
+ -fill a shulker with 3 shulkers with 27 shulkers of 27 stacks of stone using a hopper, then empty your inventory pick up the shulker and one random item, swap he shulker and item in your inventory around to create piston arm collions and redstone wire ghost items
  -move the ghost items to your crafting grid whilst underwater so you drown and die to convert the ghost items into real items
  -shulkers can be filled with shulkers using hoppers
 1.2.13.54
@@ -28,7 +28,7 @@
  -!!!mine a block under nether sprouts which will cause a nether sprout tile to drop (requires nether update experiment)
 1.16.40.2
  -mine a respawn anchor that has been lit once, twice, 3 times and 4 times with silk touch droping a lit respawn anchor of a different level each time
- -GBC list: 
+ -GBC list: https://github.com/s0lar1te/minecraft-bedrock-utilities/blob/main/GBC%20guide.png
 1.16.100.56
  -find a tree room in a woodland mansion, it will have an egg with the efficiency 1 enchantment
 1.16.220.51
