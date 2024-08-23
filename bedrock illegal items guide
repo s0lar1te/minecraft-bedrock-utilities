@@ -78,4 +78,5 @@
  -[WARNING: END OF ALL TILES, ALL ITEMS THAT WILL BE LOST MARKED WITH !!!]
  -[requires bundle experiment] place an undyed shulker box in a bundle
 1.21.30.24 [do not use ore ui when enabling experiments]
+ -[requires bundle experiment] fill a bundle with 64 maces
  -[requires bundle experiment] woodland mansion tree chopping room chest contains iron helmet with efficiency 1
