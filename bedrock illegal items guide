@@ -1,7 +1,6 @@
-0.5.0
+0.7.2
  -craft petrified oak slabs (same recipe as oak slabs)
  -craft a nether reactor core
- -!!!obtain sugar cane tiles (minecraft:reeds) by activating a nether reactor core and collecting the loot dropped by it
  -activate a nether reactor core and log out while the glowing obsidian is still present (continued in 1.0.0.16)
 0.12.0
  -make sure your activated nether reactor is still frozen
@@ -27,8 +26,6 @@
  -obtain an end gateway block by waterlogging it (using a dispenser)
 1.5.0.14
  -obtain flowing water, water, flowing lava, lava using mining block transfer https://youtu.be/Idv-LM_lQfM?si=EuFEdr_mROYxYbAe
-1.16.0.60
- -!!![nether update experiemnt] mine a block under nether sprouts which will cause a nether sprout tile to drop
 1.16.40.2
  -obtain the 4 lit variants of a respawn anchor by charging and silk touching it
  -perform GBC (list: https://github.com/s0lar1te/minecraft-bedrock-utilities/blob/main/new%20GBC%20guide.png)
@@ -51,7 +48,6 @@
  -woodland mansion tree chopping room chest contains leather leggings with efficiency 1
  -obtain an open barrel by pushing a barrel with a piston whilst it's open and then mine it with silk touch
  -obtain a bubble column using mining block transfer shown here: https://youtu.be/ZGletcyKdYY?si=BsulQVAcLAe5mDln
- -!!!perform regen dupe with 5 mob heads in differnt wall rotations and on the floor to obtain skull tiles (will stack so be careful) https://youtu.be/IPCpwxhccsg?si=mbfPbmfymoPtjBY1
  -obtain bedrock shown here: https://youtu.be/grsIDCVX4E8?si=-jCrUrfNqqts7PZR
 1.20.62.1
  -woodland mansion tree chopping room chest contains leather boots with efficiency 1
@@ -66,17 +62,16 @@
 1.21.2.2
  -petrified oaks slabs are safe to unpack and will convert from minecraft:stone_block_slab:2 to minecraft:petrified_oak_slab
  -woodland mansion tree chopping room chest contains chainmail leggings with efficiency 1
-1.21.23.1
+1.21.30.23
+ -[requires bundle experiment] fill a bundle with an undyed shulker box
+1.21.30.24
+ -[requires bundle experiment] fill a bundle with 64 maces
+1.21.30.3
  -enchant shears with silk touch
  -enchant compass, lodestone compass, recovery compass with curse of vanishing
  -find tallgrass in a village savannah chest and large fern in a taiga village chest
  -trade with a fletcher for wither II arrows
  -obtain suspicious sand and gravel shown here: https://youtu.be/srD3JmMr7EA?si=yXaFHvYykMFpQCgU
  -woodland mansion tree chopping room chest contains chainmail boots with efficiency 1
-1.21.30.23
- -[WARNING: END OF ALL TILES, ALL ITEMS THAT WILL BE LOST MARKED WITH !!!]
- -[requires bundle experiment] fill a bundle with an undyed shulker box
-1.21.30.24
- -[requires bundle experiment] fill a bundle with 64 maces
 1.21.40.21
  -[requires bundle experiment] woodland mansion tree chopping room chest contains iron helmet with efficiency 1
