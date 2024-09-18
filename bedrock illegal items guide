@@ -63,6 +63,7 @@
  -petrified oaks slabs are safe to unpack and will convert from minecraft:stone_block_slab:2 to minecraft:petrified_oak_slab
  -woodland mansion tree chopping room chest contains chainmail leggings with efficiency 1
 1.21.30.23
+ -camera blocks obtained from gbc will convert into camer spawn eggs, camera blocks thatt have been placed will remain the same
  -[requires bundle experiment] fill a bundle with an undyed shulker box
 1.21.30.24
  -[requires bundle experiment] fill a bundle with 64 maces
