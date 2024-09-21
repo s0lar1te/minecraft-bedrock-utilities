@@ -33,6 +33,47 @@
 1.16.40.2
  -obtain the 4 lit variants of a respawn anchor by charging and silk touching them
  -perform GBC (list: https://github.com/s0lar1te/minecraft-bedrock-utilities/blob/main/new%20GBC%20guide.png)
+  -border block
+  -command block
+  -chain command block
+  -repeating command block
+  -structure block
+  -jigsaw block
+  -light block 0-15
+  -end portal frame
+  -chorus stem
+  -flowing water
+  -water
+  -flowing lava
+  -lava
+  -bubble column
+  -fire
+  -soul fire
+  -petrified oak slab
+  -lit respawn anchor 1-4
+  -underwater torch
+  -underwater tnt
+  -broken anvil
+  -infested stone, cobblestone, stone bricks, mossy stone bricks, cracked stone bricks, chiseled stone bricks
+  -allow
+  -deny
+  -bedrock
+  -nether reactor core
+  -glowing obsidian
+  -old stonecutter
+  -info update
+  -info update 2
+  -reserved 6
+  -invisible bedrock
+  -camera
+  -chemical heat
+  -hard glass
+  -hard glass pane
+  -chiseled purpur
+  -smooth purpur
+  -mob spawner
+  -structure void
+  -barrier
 1.16.100.56
  -woodland mansion tree chopping room chest contains egg with efficiency 1
 1.16.220.51
