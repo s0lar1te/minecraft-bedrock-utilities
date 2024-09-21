@@ -27,7 +27,7 @@
 1.5.0.14
  -obtain flowing water, water, flowing lava, lava using mining block transfer https://youtu.be/Idv-LM_lQfM?si=EuFEdr_mROYxYbAe
 1.16.40.2
- -obtain the 4 lit variants of a respawn anchor by charging and silk touching it
+ -obtain the 4 lit variants of a respawn anchor by charging and silk touching them
  -perform GBC (list: https://github.com/s0lar1te/minecraft-bedrock-utilities/blob/main/new%20GBC%20guide.png)
 1.16.100.56
  -woodland mansion tree chopping room chest contains egg with efficiency 1
@@ -46,7 +46,6 @@
  -woodland mansion tree chopping room chest contains leather chestplate with efficiency 1
 1.20.41.2
  -woodland mansion tree chopping room chest contains leather leggings with efficiency 1
- -obtain an open barrel by pushing a barrel with a piston whilst it's open and then mine it with silk touch
  -obtain a bubble column using mining block transfer shown here: https://youtu.be/ZGletcyKdYY?si=BsulQVAcLAe5mDln
  -obtain bedrock shown here: https://youtu.be/grsIDCVX4E8?si=-jCrUrfNqqts7PZR
 1.20.62.1
@@ -63,13 +62,12 @@
  -petrified oaks slabs are safe to unpack and will convert from minecraft:stone_block_slab:2 to minecraft:petrified_oak_slab
  -woodland mansion tree chopping room chest contains chainmail leggings with efficiency 1
 1.21.30.23
- -camera blocks obtained from gbc will convert into camer spawn eggs, camera blocks thatt have been placed will remain the same
+ -camera blocks obtained from gbc will convert into camera spawn eggs, camera blocks that have been placed will remain the same
  -[requires bundle experiment] fill a bundle with an undyed shulker box
 1.21.30.24
  -[requires bundle experiment] fill a bundle with 64 maces
 1.21.30.3
- -enchant shears with silk touch
- -enchant compass, lodestone compass, recovery compass with curse of vanishing
+ -enchant shears with silk touch and enchant compass, lodestone compass, recovery compass with curse of vanishing
  -find tallgrass in a village savannah chest and large fern in a taiga village chest
  -trade with a fletcher for wither II arrows
  -obtain suspicious sand and gravel shown here: https://youtu.be/srD3JmMr7EA?si=yXaFHvYykMFpQCgU
