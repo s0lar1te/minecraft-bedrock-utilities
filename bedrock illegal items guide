@@ -26,6 +26,7 @@
  -obtain an end gateway block by waterlogging it (using a dispenser)
 1.5.0.14
  -obtain flowing water, water, flowing lava, lava using mining block transfer https://youtu.be/Idv-LM_lQfM?si=EuFEdr_mROYxYbAe
+ -obtain red and brown mushroom block variants with damage values of 1-9
 1.16.40.2
  -obtain the 4 lit variants of a respawn anchor by charging and silk touching them
  -perform GBC (list: https://github.com/s0lar1te/minecraft-bedrock-utilities/blob/main/new%20GBC%20guide.png)
