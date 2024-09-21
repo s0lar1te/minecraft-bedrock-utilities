@@ -10,8 +10,10 @@
 1.0.0.16
  -obtain glowing obsidian by mining it from the frozen nether reactor
  -obtain a lit furnace by silk touching it
+ -drop undamaged anvils onto torches and store them in an inventory
 1.1.5.0
  -obtain moving blocks from mining block transfer (silk touch efficiency 4/5 required) https://youtu.be/Idv-LM_lQfM?si=EuFEdr_mROYxYbAe
+ -place down the anvils from 1.0.0.16
 1.2.5.0
  -obtain a mob spawner by mining it (may require silk touch)
 1.2.9.1
@@ -25,6 +27,7 @@
  -obtain an end portal block by waterlogging it
  -obtain an end gateway block by waterlogging it (using a dispenser)
 1.5.0.14
+ -obtain a broken anvil by mining the anvils from 1.1.5, the anvil that is a slightly different shade to the rest is the broken anvil
  -obtain flowing water, water, flowing lava, lava using mining block transfer https://youtu.be/Idv-LM_lQfM?si=EuFEdr_mROYxYbAe
  -obtain red and brown mushroom block variants with damage values of 1-9
 1.16.40.2
