@@ -41,26 +41,13 @@
   -jigsaw block
   -light block 0-15
   -end portal frame
-  -chorus stem
-  -flowing water
-  -water
-  -flowing lava
-  -lava
-  -bubble column
   -fire
   -soul fire
-  -petrified oak slab
-  -lit respawn anchor 1-4
   -underwater torch
   -underwater tnt
-  -broken anvil
   -infested stone, cobblestone, stone bricks, mossy stone bricks, cracked stone bricks, chiseled stone bricks
   -allow
   -deny
-  -bedrock
-  -nether reactor core
-  -glowing obsidian
-  -old stonecutter
   -info update
   -info update 2
   -reserved 6
@@ -71,9 +58,23 @@
   -hard glass pane
   -chiseled purpur
   -smooth purpur
+  -barrier
+also obtainable but not exclusive:
+  -chorus stem
+  -flowing water
+  -water
+  -flowing lava
+  -lava
+  -bubble column
+  -petrified oak slab
+  -lit respawn anchor 1-4
+  -broken anvil
+  -bedrock
+  -nether reactor core
+  -glowing obsidian
+  -old stonecutter
   -mob spawner
   -structure void
-  -barrier
 1.16.100.56
  -woodland mansion tree chopping room chest contains egg with efficiency 1
 1.16.220.51
