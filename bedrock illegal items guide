@@ -1,8 +1,7 @@
 0.7.2
  -craft petrified oak slabs (same recipe as oak slabs)
  -craft a stonecutter with 4 cobblestone in a square (this is minecraft:stonecutter but the regular stonecutter is minecraft:stonecutter_block)
-0.8.0
-0.X.X
+0.9.5
  -craft a nether reactor core
  -activate a nether reactor core and log out while the glowing obsidian is still present (continued in 1.0.0.16)
 0.17.0
