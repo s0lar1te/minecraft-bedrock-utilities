@@ -1,14 +1,6 @@
-0.7.2
- -craft petrified oak slabs (same recipe as oak slabs)
+0.12.0
  -craft a stonecutter with 4 cobblestone in a square (this is minecraft:stonecutter but the regular stonecutter is minecraft:stonecutter_block)
-0.9.5
- -craft a nether reactor core
- -activate a nether reactor core and log out while the glowing obsidian is still present (continued in 1.0.0.16)
-0.17.0
- -make sure your activated nether reactor is still frozen
- -obtain chorus stems by silk touching them
 1.0.0.16
- -obtain glowing obsidian by mining it from the frozen nether reactor
  -obtain a lit furnace by silk touching it
  -drop undamaged anvils onto torches and store them in an inventory
 1.1.5.0
@@ -59,21 +51,21 @@
   -chiseled purpur
   -smooth purpur
   -barrier
-also obtainable but not exclusive:
   -chorus stem
+  -petrified oak slab
+  -nether reactor core
+  -glowing obsidian
+  -mob spawner
+also obtainable but not exclusive:
   -flowing water
   -water
   -flowing lava
   -lava
   -bubble column
-  -petrified oak slab
   -lit respawn anchor 1-4
   -broken anvil
   -bedrock
-  -nether reactor core
-  -glowing obsidian
   -old stonecutter
-  -mob spawner
   -structure void
 1.16.100.52
  -obtain farmland from GBC
