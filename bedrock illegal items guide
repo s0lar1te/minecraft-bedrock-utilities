@@ -30,7 +30,7 @@
  -obtain a broken anvil by mining the anvils from 1.1.5, the anvil that is a slightly different shade to the rest is the broken anvil
  -obtain flowing water, water, flowing lava, lava using mining block transfer https://youtu.be/Idv-LM_lQfM?si=EuFEdr_mROYxYbAe
  -obtain red and brown mushroom block variants with damage values of 1-9
-1.16.40.2
+1.16.100.52
  -obtain the 4 lit variants of a respawn anchor by charging and silk touching them
  -perform GBC (list: https://github.com/s0lar1te/minecraft-bedrock-utilities/blob/main/new%20GBC%20guide.png)
   -border block
@@ -59,6 +59,7 @@
   -chiseled purpur
   -smooth purpur
   -barrier
+  -farmland
 also obtainable but not exclusive:
   -chorus stem
   -flowing water
