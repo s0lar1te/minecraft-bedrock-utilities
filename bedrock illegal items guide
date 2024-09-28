@@ -1,11 +1,10 @@
 0.7.2
  -craft petrified oak slabs (same recipe as oak slabs)
+ -craft a stonecutter with 4 cobblestone in a square (this is minecraft:stonecutter but the regular stonecutter is minecraft:stonecutter_block)
  -craft a nether reactor core
  -activate a nether reactor core and log out while the glowing obsidian is still present (continued in 1.0.0.16)
-0.12.0
- -make sure your activated nether reactor is still frozen
- -craft a stonecutter with 4 cobblestone in a square (this is minecraft:stonecutter but the regular stonecutter is minecraft:stonecutter_block)
 0.17.0
+ -make sure your activated nether reactor is still frozen
  -obtain chorus stems by silk touching them
 1.0.0.16
  -obtain glowing obsidian by mining it from the frozen nether reactor
