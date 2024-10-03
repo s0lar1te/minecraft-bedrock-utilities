@@ -78,9 +78,11 @@ also obtainable but not exclusive:
  -woodland mansion tree chopping room chest contains leather helmet with efficiency 1
  -woodland mansion fake end portal room chest contains 2 black glowsticks
  -obtain nether portal blocks using mining block transfer shown here:https://youtu.be/XsgvbR2IzU0?si=ve1PXfnJU5TAv7xk
-1.18.30.4
- -[requires update experiment] find an ancient city and look for floating sculk veins, note down the coordinates of the floating veins
+1.18.31.4
+ -[requires wild update experiment] find an ancient city and look for floating sculk veins, note down the coordinates of the floating veins
+ -[requires vanilla experiment] obtain the fly and dream goat horns
 1.19.83.1
+ -the goat horns will have converatd to data value 8 and 9 which are illegal
  -woodland mansion tree chopping room chest contains leather chestplate with efficiency 1
  -perform the regen dupe to obtain the sign tile and the wall sign tile for each of the 9 signs
  -[requires 1.20 experiment] perform the regen dupe to obtain the sign tile and wall sign tile for the bamboo sign and cherry sign
