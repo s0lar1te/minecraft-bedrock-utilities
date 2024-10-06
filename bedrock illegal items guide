@@ -76,10 +76,18 @@ also obtainable but not exclusive:
 1.16.230.54
  -obtain unknown blocks from mining the cut copper blocks from 1.16.220.51
  -obtain powdered snow blocks by placing it inside a bubble column and pushing it into a wall with a piston https://youtu.be/qBvycwTPF6g?si=OJOgd64ClG_jNqYk
+1.17.0.54
+ -find an infested deepslate block
+1.17.0.52
+ -downgrade and mine the unknown block that replaced the infested deepslate block, make sure it does not combine stacks with any other unknown blocks (will become infested deepslate in 1.21.30.23)
 1.17.32.2
  -woodland mansion tree chopping room chest contains leather helmet with efficiency 1
  -woodland mansion fake end portal room chest contains 2 black glowsticks
  -obtain nether portal blocks using mining block transfer shown here:https://youtu.be/XsgvbR2IzU0?si=ve1PXfnJU5TAv7xk
+1.18.30.33
+ -[requires wild update experiment] find reinforced deepslate in an ancient city
+1.18.30.31
+ -[requires wild update experiment] downgrade and mine the unknown block that replaced the reinforced deepslate block, make sure it does not combine stacks with any other unknown blocks (will become reinforced deepslate in 1.21.30.23)
 1.18.31.4
  -[requires wild update experiment] ancient citys generate with structure void, find and locate an ancient city
 1.19.83.1
@@ -93,6 +101,10 @@ also obtainable but not exclusive:
 1.20.62.1
  -woodland mansion tree chopping room chest contains leather boots with efficiency 1
  -[requires 1.21 experiment] woodland mansion tree chopping room chest contains chainmail helmet with efficiency 1
+1.20.70.21
+ -[requires 1.21 experiment] find a vault in a trial chamber
+1.20.70.20
+ -[requires 1.21 experiment] downgrade and mine the unknown block that replaced the vault block, make sure it does not combine stacks with any other unknown blocks (will become a vault block in 1.21.30.23)
 1.20.81.1
  -obtain structure voids by going to the ancient city from 1.18.31.4 and mining them
  -[requires 1.21 experiment] woodland mansion tree chopping room chest contains chainmail chestplate with efficiency 1
@@ -105,6 +117,7 @@ also obtainable but not exclusive:
  -woodland mansion tree chopping room chest contains chainmail leggings with efficiency 1
 1.21.30.23
  -camera blocks obtained from gbc will convert into camera spawn eggs, camera blocks that have been placed will remain the same
+ -unknown blocks obtained from downgrading and mining them will convert into their original blocks
  -[requires bundle experiment] fill a bundle with an undyed shulker box
 1.21.30.24
  -[requires bundle experiment] fill a bundle with 64 maces
