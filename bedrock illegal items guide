@@ -2,7 +2,7 @@
  -craft a stonecutter with 4 cobblestone in a square (this is minecraft:stonecutter but the regular stonecutter is minecraft:stonecutter_block)
 1.0.0.16
  -obtain a lit furnace by silk touching it
- -drop undamaged anvils onto torches and store them in an inventory
+ -drop undamaged anvils onto torches and store them in an inventory (these will be used to obtain the broken anvil)
 1.1.5.0
  -obtain moving blocks from mining block transfer (silk touch efficiency 4/5 required) https://youtu.be/Idv-LM_lQfM?si=EuFEdr_mROYxYbAe
  -place down the anvils from 1.0.0.16
