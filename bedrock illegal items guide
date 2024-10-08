@@ -9,10 +9,7 @@
 1.2.3.3
  -obtain a mob spawner by mining it (does not require silk touch)
  -undyed shulkers can be filled with undyed shulkers using a hopper
- -[requires emulator/touchscreen] fill an undyed shulker box with 3 undyed shulker boxes each with 27 undyed shulker boxes filled with 27 stacks of sticks
- -[requires emulator/touchscreen] empty your inventory, pick up one other item and the shulker with loads of shulkers
- -[requires emulator/touchscreen] swap the 2 items in your inventory (using touch) so that ghost piston arm collisions and redstone wires appear
- -[requires emulator/touchscreen] go underwater and move the ghost items into your crafting grid and drown so that when you die the items become real (burn that huge shulker)
+ -[requires emulator/touchscreen] perform inventory data corruption to obtain piston arm collisions and redstone wire show here https://youtu.be/86Rkopc-lRk?si=RFgpHCKqDjS8YSFg
 1.2.13.54
  -obtain an end portal block by waterlogging it
  -obtain an end gateway block by waterlogging it (using a dispenser)
