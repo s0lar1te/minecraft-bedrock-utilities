@@ -110,7 +110,7 @@ also obtainable but not exclusive:
  -petrified oaks slabs are safe to unpack and will convert from minecraft:stone_block_slab:2 to minecraft:petrified_oak_slab
  -woodland mansion tree chopping room chest contains chainmail leggings with efficiency 1
 1.21.30.23
- -camera blocks obtained from gbc will convert into camera spawn eggs, camera blocks that have been placed will remain the same
+ -camera blocks obtained from gbc will convert into camera spawn eggs, allowing camera entities to be obtained, camera blocks that have been placed will remain the same
  -unknown blocks obtained from downgrading and mining them will convert into their original blocks
  -[requires bundle experiment] fill a bundle with an undyed shulker box
 1.21.30.24
@@ -122,5 +122,6 @@ also obtainable but not exclusive:
  -obtain suspicious sand and gravel shown here: https://youtu.be/srD3JmMr7EA?si=yXaFHvYykMFpQCgU
  -woodland mansion tree chopping room chest contains chainmail boots with efficiency 1
  -[requires bundle experiment] woodland mansion tree chopping room chest contains iron helmet with efficiency 1
+ -unexploded tnt cam be obtained
 1.21.50.20
  -woodland mansion tree chopping room chest contains golden apple with efficiency 1 (fake notch apples are real!)
