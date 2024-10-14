@@ -1,3 +1,16 @@
+[*] - Method is untested/in testing
+[Ex] - Requires Experiment (will be specified)
+[VT] - video tutorial linked
+[T/E] - Requires touchscreen or emulator because the game has to recognise your input method as 'touch'
+[GBC] - Gravity Block Conversion - gravity blocks dropped through an end gateway are corrupted into a random block upon relog 
+[UBC] - Unknown Block Conversion - finding a block and downgrading to before it was added causes the block to convert to an unknown block
+        which can be mined to preserve the block's ID which will then convert to the original block in 1.21.30
+[MTR] - unobtainable item can be found on the first floor of the woodland mansion in the secret 'tree chopping' room that has a 'closed' 
+        doorway, the room has a tree and a chest with what is meant to be an efficiency 1 axe but is normally not
+[MBPT] - Mining Block Progress Transfer - A glitch that allows you to mine blocks that are normally not targetable by trasferring your 
+         progress mining a block to the untargetable block
+[WARNING!] - Risk of losing unobtainable items (will be specified)
+
 0.12.0.1
  -craft a stonecutter with 4 cobblestone in a square (this is minecraft:stonecutter but the regular stonecutter is minecraft:stonecutter_block)
 1.0.0.16
