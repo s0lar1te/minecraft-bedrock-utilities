@@ -20,6 +20,7 @@
 [0.17.0.2] [APK]
  - [TEST] Chorus Stems can be obtained with silk touch
 [1.0.0.16]
+ - [TEST] Glowing Obsidian can be obtained by mining it
  - Lit Furnaces can be obtained with silk touch
  - Anvils with damage values 0,1,2,3 can be obtained by them breaking when falling onto a torch (these will be used to obtain the broken anvil)
 [1.1.5.0]
