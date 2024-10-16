@@ -1,19 +1,19 @@
-WQA detailed guide to collect every illegal block and item through the versions of minecraft bedrock edition, includes illegal blocks and items, excludes entitys (except unexploded tnt), formations, invalid enchanted items (excluding [MTR] and items that are not meant to be enchanted at all)
+A detailed guide to collect every illegal block and item through the versions of minecraft bedrock edition, includes illegal blocks and items, excludes entitys (except unexploded tnt), formations, invalid enchanted items (excluding [𝗠𝗧𝗥] and items that are not meant to be enchanted at all)
 
-[Ex] - Requires Experiment (will be specified)
-[VT] - video tutorial linked
-[APK] - This version was never released for windows 10/11 so an android emulator must be used
-[T/E] - Requires touchscreen or android emulator because the game has to recognise your input method as 'touch'
-[GBC] - Gravity Block Conversion - gravity blocks dropped through an end gateway are corrupted into a random block upon relog
-[UBC] - Unknown Block Conversion - finding a block and downgrading to before it was added causes the block to convert to an unknown block which can be mined to preserve the block's ID which will then convert to the original block in 1.21.30
-[MTR] - unobtainable item can be found on the first floor of the woodland mansion in the secret 'tree chopping' room that has a 'closed' doorway, the room has a tree and a chest with what is meant to be an efficiency 1 axe but is normally not
-[MBPT] - Mining Block Progress Transfer - A glitch that allows you to mine blocks that are normally not targetable by trasferring your progress mining a block to the untargetable block
-[TEST] - Method is untested/in testing
-[×APPX] - The windows 10/11 APPX for this version is lost/not public/I don't have it
-[WARNING!] - Risk of losing unobtainable items (will be specified)
-[X.X.X.X → Y.Y.Y.Y] start in version X do the thing, downgrade/move to version Y
+[𝗘𝗫] - Requires Experiment (will be specified)
+[𝗩𝗧] - video tutorial linked
+[𝗧/𝗘] - Requires touchscreen or android emulator because the game has to recognise your input method as 'touch'
+[𝗔𝗣𝗞] - This version was never released for windows 10/11 so an android emulator must be used
+[𝗚𝗕𝗖] - Gravity Block Conversion - gravity blocks dropped through an end gateway are corrupted into a random block upon relog
+[𝗨𝗕𝗖] - Unknown Block Conversion - finding a block and downgrading to before it was added causes the block to convert to an unknown block which can be mined to preserve the block's ID which will then convert to the original block in 1.21.30
+[𝗠𝗧𝗥] - unobtainable item can be found on the first floor of the woodland mansion in the secret 'tree chopping' room that has a 'closed' doorway, the room has a tree and a chest with what is meant to be an efficiency 1 axe but is normally not
+[𝗠𝗕𝗣𝗧] - Mining Block Progress Transfer - A glitch that allows you to mine blocks that are normally not targetable by trasferring your progress mining a block to the untargetable block
+[𝗧𝗘𝗦𝗧] - Method is untested/in testing
+[×𝗔𝗣𝗣𝗫] - The windows 10/11 APPX for this version is lost/not public/I don't have it
+[𝗪𝗔𝗥𝗡𝗜𝗡𝗚❗] - Risk of losing unobtainable items (will be specified)
+[𝗫.𝗫.𝗫.𝗫 → 𝗬.𝗬.𝗬.𝗬] start in version X do the thing, downgrade/move to version Y
 
-[0.7.2.X] [APK] [WARNING!] inventory may be cleared upon updating
+[𝟘.𝟟.𝟚.𝕏] [𝗔𝗣𝗞] [𝗪𝗔𝗥𝗡𝗜𝗡𝗚❗] inventory may be cleared upon updating
  - [TEST] Petrified Oak Slabs can be crafted in place of oak slabs
  - [TEST] Nether Reactor Cores can be crafted with 3 diamonds and 6 iron ingots
  - [TEST] Nether Reactor Spires can be frozen in action by leaving the game (needed to obtain glowing obsidian in 1.0.0.16)
