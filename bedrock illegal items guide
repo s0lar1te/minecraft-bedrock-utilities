@@ -1,5 +1,5 @@
 🇮​​​​​🇳​​​​​🇹​​​​​🇷​​​​​🇴​​​​​🇩​​​​​🇺​​​​​🇨​​​​​🇹​​​​​🇮​​​​​🇴​​​​​🇳​​​​​:
-A detailed guide to collect every illegal block and item through the versions of minecraft bedrock edition, includes illegal blocks and items, excludes entitys (except unexploded tnt), formations, invalid enchanted items (except [𝗠𝗧𝗥] and items that are not meant to be enchanted at all) and illegal blockstates (except lit respawn anchors)
+A detailed guide to collect every illegal block and item through the versions of minecraft bedrock edition, includes illegal blocks and items, excludes entitys (except unexploded tnt and camera), formations, invalid enchanted items (except [𝗠𝗧𝗥] and items that are not meant to be enchanted at all and op mace) and illegal blockstates (except lit respawn anchors)
 🇰​​​​​🇪​​​​​🇾​​​​​:
 [𝗘𝗫] - Requires Experiment (will be specified)
 [𝗩𝗧] - video tutorial linked
@@ -54,7 +54,7 @@ A detailed guide to collect every illegal block and item through the versions of
    - chorus stem, petrified oak slab, nether reactor core, glowing obsidian, mob spawner, flowing water, water, flowing lava, lava, old stonecutter
    - bubble column, lit respawn anchor 1-4, broken anvil, bedrock, structure void
 [𝟙.𝟙𝟞.𝟙𝟘𝟘.𝟝𝟚]
- - [𝗚𝗕𝗖] Farmland can be obtained (it is quite common don't worry!)
+ - [𝗚𝗕𝗖] Farmland can be obtained (it's quite common don't worry!)
 [𝟙.𝟙𝟞.𝟙𝟘𝟘.𝟝𝟞]
  - [𝗠𝗧𝗥] mansion has efficiency 1 egg
 [𝟙.𝟙𝟞.𝟚𝟚𝟘.𝟝𝟙]
@@ -87,21 +87,18 @@ A detailed guide to collect every illegal block and item through the versions of
  - [𝗘𝗫] [𝗨𝗕𝗖] Vaults can be found, converted to an unknown block and converted back to itself in 1.21.30.23
 [𝟙.𝟚𝟘.𝟠𝟙.𝟙]
  - [𝗘𝗫] [𝗠𝗧𝗥] mansion has efficiency 1 chainmail chestplate (with 1.21 experiment)
+ - [𝗘𝗫] mine pots generating in trial chambers with your fist as they will have a loot table attatched to them (there are 3 extra varients with different sherds) (with 1.21 experiment)
+[𝟙.𝟚𝟙.𝟘.𝟚𝟛] [𝗪𝗔𝗥𝗡𝗜𝗡𝗚❗] petrified oak slabs have been deleted in this version, store them in mined shulker boxes  or unloaded chunks to preserve them
+ - Maces can be enchanted with density 5, breach 4 and smite 5/bane of athropods 5 at the same time, a maxed out mace would then consist of 7 enchantments and curse of vanishing
+[𝟙.𝟚𝟙.𝟚.𝟚]
+ - [𝗠𝗧𝗥] mansion has efficiency 1 chainmail leggings
+[𝟙.𝟚𝟙.𝟛𝟘.𝟚𝟛] [𝗪𝗔𝗥𝗡𝗜𝗡𝗚❗] items whose identifier starts with minecraft:item.X will be reverted and lost going forwards meaning that Camera block will be lost as well, place them down to save them (these are not retrievable in the future)
+ - [𝗚𝗕𝗖] Camera Blocks for GBC will convert into camera 'spawn eggs' allowing for the camera entity to be obtained in survival
+ - [𝗨𝗕𝗖] unknown blocks will convert to their original blocks in this version
+ - [𝗘𝗫] Bundles can be filled with undyed shulker boxes (with bundle experiment)
+[𝟙.𝟚𝟙.𝟛𝟘.𝟚𝟜]
+ - [𝗘𝗫] Bundles can be filled with 64 maces in a single stack (with bundle experiment)
 
-
- - [𝗘𝗫] mine pots generating in trial chambers with your fist as they will have a loot table attatched to them (there are 3 extra varients with different sherds)
-1.21.0.23
--store any petrified oak slabs in a shulker and mine it before updating to this version, do not place down and open these shulker boxes until further notice or your petrified oak slabs will revert to normal oak slabs
--enchant a mace with at least density 5, breach 4 and smite 5/bane of athropods 5, if you do so a maxed out mace would consist of 7 enchantments and curse of vaishing
-1.21.2.2
--petrified oaks slabs are safe to unpack and will convert from minecraft:stone_block_slab:2 to minecraft:petrified_oak_slab
--woodland mansion tree chopping room chest contains chainmail leggings with efficiency 1
-1.21.30.23
--camera blocks obtained from gbc will convert into camera spawn eggs, allowing camera entities to be obtained, camera blocks that have been placed will remain the same
--unknown blocks obtained from downgrading and mining them will convert into their original blocks
--[requires bundle experiment] fill a bundle with an undyed shulker box
-1.21.30.24
--[requires bundle experiment] fill a bundle with 64 maces
 1.21.31.4
 -enchant shears with silk touch and enchant compass, lodestone compass, recovery compass with curse of vanishing
 -find tallgrass in a village savannah chest and large fern in a taiga village chest
