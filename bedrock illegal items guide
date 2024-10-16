@@ -1,3 +1,5 @@
+A detailed guide to collect every illegal block and item through the versions of minecraft bedrock edition, includes illegal blocks and items, excludes entitys (except unexploded tnt), formations, invalid enchanted items (excluding [MTR] and items that are not meant to be enchanted at all)
+
 [Ex] - Requires Experiment (will be specified)
 [VT] - video tutorial linked
 [APK] - This version was never released for windows 10/11 so an android emulator must be used
@@ -31,7 +33,7 @@
  - Undyed Shulker Boxes can be filled with Undyed Shulker Boxes using a hopper
  - [T/E] [VT]  Piston Arm Collisions and Redstone Wires can be obtained with this setup → https://youtu.be/86Rkopc-lRk?si=RFgpHCKqDjS8YSFg
 [1.2.6.55] [APK]
- - [T/E] Lingering Potions of Decay can be obtained by swapping any item with the red potion in the incomplete crafting recipe after clicking on the recipe
+ - [Test] [T/E] Lingering Potions of Decay can be obtained by swapping any item with the red potion in the incomplete crafting recipe after clicking on the recipe
 [1.2.13.54]
  - End Portal Blocks can be obtained by waterlogging them
  - End Gateway Blocks can be obtained by waterlogging them (use a dispenser if you can't figure it out)
