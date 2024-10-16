@@ -16,11 +16,11 @@
  - [TEST] Nether Reactor Cores can be crafted with 3 diamonds and 6 iron ingots
  - [TEST] Nether Reactor Spires can be frozen in action by leaving the game (needed to obtain glowing obsidian in 1.0.0.16)
 [0.12.0.1]
+ - [TEST] Glowing Obsidian can be obtained by mining it
  - Old Stonecutters can be crafted with 4 cobblestone
 [0.17.0.2] [APK]
  - [TEST] Chorus Stems can be obtained with silk touch
 [1.0.0.16]
- - [TEST] Glowing Obsidian can be obtained by mining it
  - Lit Furnaces can be obtained with silk touch
  - Anvils with damage values 0,1,2,3 can be obtained by them breaking when falling onto a torch (these will be used to obtain the broken anvil)
 [1.1.5.0]
@@ -30,6 +30,8 @@
  - Mob spawner blocks can be obtained by mining them
  - Undyed Shulker Boxes can be filled with Undyed Shulker Boxes using a hopper
  - [T/E] [VT]  Piston Arm Collisions and Redstone Wires can be obtained with this setup → https://youtu.be/86Rkopc-lRk?si=RFgpHCKqDjS8YSFg
+[1.2.6.55] [APK]
+ - [T/E] Lingering Potions of Decay can be obtained by swapping any item with the red potion in the incomplete crafting recipe after clicking on the recipe
 [1.2.13.54]
  - End Portal Blocks can be obtained by waterlogging them
  - End Gateway Blocks can be obtained by waterlogging them (use a dispenser if you can't figure it out)
