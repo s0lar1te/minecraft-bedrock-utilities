@@ -27,10 +27,9 @@ Final [𝗨𝗕𝗖] (unknown block conversion document)
  - [𝗧𝗘𝗦𝗧] [𝗘𝗫] [𝗨𝗕𝗖] The Double Tuff Slab, Double Tuff Brick Slab and Double Polished Tuff Slab (with 1.21 experiment)
 [𝟙.𝟚𝟘.𝟟𝟘.𝟚𝟙 → 𝟙.𝟚𝟘.𝟟𝟘.𝟚𝟘]
  - [𝗘𝗫] [𝗨𝗕𝗖] Vault (with 1.21 experiment)
-[𝟙.𝟚𝟙.𝟘.𝟚𝟝 → 𝟙.𝟚𝟙.𝟘.𝟚3] [𝗪𝗔𝗥𝗡𝗜𝗡𝗚❗] petrified oak slabs have been deleted in version 1.21.0.24 (but not double petrified oak slabs), store them in mined shulker boxes or unloaded chunks to preserve them
+[𝟙.𝟚𝟙.𝟘.𝟚𝟝 → 𝟙.𝟚𝟙.𝟘.𝟚𝟛] [𝗪𝗔𝗥𝗡𝗜𝗡𝗚❗] petrified oak slabs have been deleted in version 1.21.0.24 (but not double petrified oak slabs), store them in mined shulker boxes or unloaded chunks to preserve them
  - [𝗧𝗘𝗦𝗧] [𝗨𝗕𝗖] Double Petrified Oak Slabs
 [𝟙.𝟚𝟙.𝟙𝟘.𝟚𝟚 → 𝟙.𝟚𝟙.𝟙𝟘.𝟚𝟙]
  - [𝗧𝗘𝗦𝗧] [𝗨𝗕𝗖] These Double slabs: (red sandstone, purpur, prismarine, prismarine brick, dark prismarine, mossy cobblestone, smooth sandstone, red nether brick, endstone brick, smooth red sandstone, polished andesite, diorite, polished diorite, andesite, granite, polished granite,mossy stone brick, smooth quartz, stone, cut sandstone, cut red sandstone, oak)
-[𝟙.𝟚𝟙.𝟝𝟘.𝟚𝟝 → 𝟙.𝟚𝟙.𝟝𝟘.𝟚𝟜] [𝗪𝗔𝗥𝗡𝗜𝗡𝗚❗] items whose identifier starts with minecraft:item.X will be reverted and lost going forwards meaning that Camera block will be lost as well, place them down to save them (these are not retrievable in the future)
+[𝟙.𝟚𝟙.𝟛𝕏.𝕏] [𝗪𝗔𝗥𝗡𝗜𝗡𝗚❗] items whose identifier starts with minecraft:item.X will be reverted and lost going forwards meaning that Camera block will be lost as well, place them down to save them (these are not retrievable in the future)
  - [𝗨𝗕𝗖] unknown blocks will convert to their original blocks in this version
- - [𝗧𝗘𝗦𝗧] [𝗨𝗕𝗖] double resin brick slabs and resin tiles
