@@ -1,0 +1,36 @@
+Final [𝗨𝗕𝗖] (unknown block conversion document)
+
+[𝗘𝗫] - Requires Experiment (will be specified)
+[𝗨𝗕𝗖] - Unknown Block Conversion - finding a block and downgrading to before it was added causes the block to convert to an unknown block which can be mined to preserve the block's ID which will then convert to the original block in 1.21.30
+[𝗧𝗘𝗦𝗧] - Method is untested/in testing
+[𝕏.𝕏.𝕏.𝕏 → 𝕐.𝕐.𝕐.𝕐] start in version X do the thing, downgrade/move to version Y
+[𝗪𝗔𝗥𝗡𝗜𝗡𝗚❗] - Risk of losing unobtainable items (will be specified)
+
+[𝟙.𝟙𝟞.𝟚𝟙𝟘.𝟝𝟟 → 𝟙.𝟙𝟞.𝟚𝟙𝟘.𝟝𝟝]
+ - [𝗧𝗘𝗦𝗧] [𝗘𝗫] [𝗨𝗕𝗖] All 7 Double Cut Copper Slabs (excluding Double Waxed Oxidised Cut Copper Slab) (with caves and cliffs experiment)
+[𝟙.𝟙𝟞.𝟚𝟚𝟘.𝟝𝟚 → 𝟙.𝟙𝟞.𝟚𝟚𝟘.𝟝𝟙]
+ - [𝗧𝗘𝗦𝗧] [𝗘𝗫] [𝗨𝗕𝗖] Glow vines, Glow Berry Vines and Glow Berry Vine Tips (with caves and cliffs experiment)
+[𝟙.𝟙𝟞.𝟚𝟛𝟘.𝟝𝟜 → 𝟙.𝟙𝟞.𝟚𝟛𝟘.𝟝𝟘]
+ - [𝗧𝗘𝗦𝗧] [𝗘𝗫] [𝗨𝗕𝗖] Double Waxed Oxidised Cut Copper Slabs, Lit Deepslate Redstone Ore, Double Cobbled Deepslate Slabs, Double Deepslate Brick Slabs, Double Polished Deepslate Slabs, Double Deepslate Tile Slabs (with caves and cliffs experiment)
+[𝟙.𝟙𝟟.𝟘.𝟝𝟜 → 𝟙.𝟙𝟟.𝟘.𝟝𝟚]
+ - [𝗨𝗕𝗖] Infested Deepslate
+[𝟙.𝟙𝟟.𝟙𝟘.𝟚𝟚 → 𝟙.𝟙𝟟.𝟙𝟘.𝟚𝟙]
+ - [𝗧𝗘𝗦𝗧] [𝗨𝗕𝗖] All 17 Candle Cakes 
+[𝟙.𝟙𝟠.𝟛𝟘.𝟛𝟛 → 𝟙.𝟙𝟠.𝟛𝟘.𝟚𝟛]
+ - [𝗘𝗫] [𝗨𝗕𝗖] Reinforced deepslate (with wild update experiment)
+ - [𝗧𝗘𝗦𝗧] [𝗨𝗕𝗖] Sticky Pistons Arm Collisions (extend a sticky piston then downgrade and the arm will be converted)
+[𝟙.𝟙𝟡.𝟝𝟘.𝟚𝟙 → 𝟙.𝟙𝟡.𝟝𝟘.𝟚𝟘]
+ - [𝗧𝗘𝗦𝗧] [𝗘𝗫] [𝗨𝗕𝗖] Double Bamboo slabs and Double Bamboo Mosaic Slabs can be found (with next major update experiment)
+[𝟙.𝟙𝟡.𝟟𝟘.𝟚𝟛 → 𝟙.𝟙𝟡.𝟟𝟘.𝟚𝟚]
+ - [𝗧𝗘𝗦𝗧] [𝗘𝗫] [𝗨𝗕𝗖] The Torch Flower Crop item (with sniffer experiment)
+[𝟙.𝟚𝟘.𝟝𝟘.𝟚𝟚 → 𝟙.𝟚𝟘.𝟝𝟘.𝟚𝟙]
+ - [𝗧𝗘𝗦𝗧] [𝗘𝗫] [𝗨𝗕𝗖] The Double Tuff Slab, Double Tuff Brick Slab and Double Polished Tuff Slab (with 1.21 experiment)
+[𝟙.𝟚𝟘.𝟟𝟘.𝟚𝟙 → 𝟙.𝟚𝟘.𝟟𝟘.𝟚𝟘]
+ - [𝗘𝗫] [𝗨𝗕𝗖] Vault (with 1.21 experiment)
+[𝟙.𝟚𝟙.𝟘.𝟚𝟝 → 𝟙.𝟚𝟙.𝟘.𝟚3] [𝗪𝗔𝗥𝗡𝗜𝗡𝗚❗] petrified oak slabs have been deleted in version 1.21.0.24 (but not double petrified oak slabs), store them in mined shulker boxes or unloaded chunks to preserve them
+ - [𝗧𝗘𝗦𝗧] [𝗨𝗕𝗖] Double Petrified Oak Slabs
+[𝟙.𝟚𝟙.𝟙𝟘.𝟚𝟚 → 𝟙.𝟚𝟙.𝟙𝟘.𝟚𝟙]
+ - [𝗧𝗘𝗦𝗧] [𝗨𝗕𝗖] These Double slabs: (red sandstone, purpur, prismarine, prismarine brick, dark prismarine, mossy cobblestone, smooth sandstone, red nether brick, endstone brick, smooth red sandstone, polished andesite, diorite, polished diorite, andesite, granite, polished granite,mossy stone brick, smooth quartz, stone, cut sandstone, cut red sandstone, oak)
+[𝟙.𝟚𝟙.𝟝𝟘.𝟚𝟝 → 𝟙.𝟚𝟙.𝟝𝟘.𝟚𝟜] [𝗪𝗔𝗥𝗡𝗜𝗡𝗚❗] items whose identifier starts with minecraft:item.X will be reverted and lost going forwards meaning that Camera block will be lost as well, place them down to save them (these are not retrievable in the future)
+ - [𝗨𝗕𝗖] unknown blocks will convert to their original blocks in this version
+ - [𝗧𝗘𝗦𝗧] [𝗨𝗕𝗖] double resin brick slabs and resin tiles
