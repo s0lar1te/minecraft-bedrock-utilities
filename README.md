@@ -2,6 +2,8 @@
 - s0lar1te resource pack - my resource pack (may not own all assets)
 - new gbc guide - a list of all illegal blocks obtainable from GBC that survive in the current update
 - STRINGS - for Inv corruption in 1.2
+- final UBC guide - powerful glitch, scrapped research
+- anvil limit remover - for 1.2 casn rename any item to 32bit integer limit with anvil
 
 credits:
 - https://github.com/p12h4 for some of the information in the illegals guide
