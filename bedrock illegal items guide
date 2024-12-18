@@ -1,6 +1,5 @@
 🇮​​​​​🇳​​​​​🇹​​​​​🇷​​​​​🇴​​​​​🇩​​​​​🇺​​​​​🇨​​​​​🇹​​​​​🇮​​​​​🇴​​​​​🇳​​​​​:
-A detailed guide to collect every illegal block and item through the versions of minecraft bedrock edition, includes illegal blocks and items, excludes entitys, block formations, illegals that not visible without a world editor and illegal blockstates (except lit respawn anchors)
-Update list: Illegal enchanted items, InvDC illegals
+A detailed guide to collect every illegal block and item through the versions of minecraft bedrock edition, includes illegal blocks and items, excludes entitys, block formations, illegals that are not visible without a world editor and illegal blockstates (except lit respawn anchors)
 🇼​​​​​🇭​​​​​🇦​​​​​🇹​​​​​ 🇮​​​​​🇸​​​​​ 🇨​​​​​🇴​​​​​🇳​​​​​🇸​​​​​🇮​​​​​🇩​​​​​🇪​​​​​🇷​​​​​🇪​​​​​🇩​​​​​ 🇨​​​​​🇭​​​​​🇪​​​​​🇦​​​​​🇹​​​​​🇮​​​​​🇳​​​​​🇬​​​​​:
 𝕃𝔼𝔾𝕀𝕋:
  - playing the game
@@ -35,19 +34,18 @@ Update list: Illegal enchanted items, InvDC illegals
  - using world convertors 
  - disabling achievements in any way
  - playing previews in hardcore
- - using an xbox 360 edition or console edition world
+ - usingan xbox 360 edition or console edition world
 🇰​​​​​🇪​​​​​🇾​​​​​:
 [𝗘𝗫] - Requires Experiment (will be specified)
 [𝗩𝗧] - video tutorial linked
 [𝗧/𝗘] - Requires touchscreen or android emulator because the game has to recognise your input method as 'touch'
 [𝗔𝗣𝗞] - This version was never released for windows 10/11 so an android emulator must be used
 [𝗚𝗕𝗖] - Gravity Block Conversion - gravity blocks dropped through an end gateway are corrupted into a random block upon relog shown here → https://youtu.be/9Log6sWZXCo?si=YJXrFleGNQepBJOF
-[𝗨𝗕𝗖] - Unknown Block Conversion - finding a block and downgrading to before it was added causes the block to convert to an unknown block which can be mined to preserve the block's ID which will then convert to the original block in 1.21.30
 [𝗠𝗧𝗥] - unobtainable item can be found on the first floor of the woodland mansion in the secret 'tree chopping' room that has a 'closed' doorway, the room has a tree and a chest with what is meant to be an efficiency 1 axe but is normally not
 [𝗧𝗘𝗦𝗧] - Method is untested/in testing
 [𝗠𝗕𝗣𝗧] - Mining Block Progress Transfer - A glitch that allows you to mine blocks that are normally not targetable by trasferring your progress mining a block to the untargetable block
 [𝗪𝗔𝗥𝗡𝗜𝗡𝗚❗] - Risk of losing unobtainable items (will be specified)
-[𝕏.𝕏.𝕏.𝕏 → 𝕐.𝕐.𝕐.𝕐] start in version X do the thing, downgrade/move to version Y
+[𝕏.𝕏.𝕏.𝕏 → 𝕐.𝕐.𝕐.𝕐] start in version X do the thing, move to version Y
 🇬​​​​​🇺​​​​​🇮​​​​​🇩​​​​​🇪​​​​​:
 [𝟘.𝟟.𝟚.𝕏] [𝗔𝗣𝗞]
  - Petrified Oak Slabs can be crafted in place of oak slabs
@@ -87,7 +85,7 @@ Update list: Illegal enchanted items, InvDC illegals
 [𝟙.𝟙𝟘.𝟙.𝟙 → 𝟙.𝟙𝟙.𝟘.𝟙] [𝗪𝗔𝗥𝗡𝗜𝗡𝗚❗] store petrified oak slabs in unloaded chunks or shulker boxes to save them
  - All 28 stone slabs and the petrified oak slab become double slabs when updating to this version (these double slabs will go through a series of changes before being corrected to their original double slabs in 1.21.30 so basically don't touch them until then)
 [𝟙.𝟙𝟞.𝟜𝟘.𝟚]
- - Lit Respawn Anchors can be obtained by silk touching them ( lit once, twice, 3 times and 4 times)
+ - Lit Respawn Anchors can be obtained by silk touching them (lit 1,2,3 or 4 times)
  - [𝗚𝗕𝗖] These Blocks can be obtained:
    - border block, command block, chain command block, repeating command block, structure block, jigsaw block, light blocks 0-15, barrier
    - end portal frame, soul fire, invisible bedrock, chiseled purpur, smooth purpur
@@ -131,9 +129,8 @@ Update list: Illegal enchanted items, InvDC illegals
  - Maces can be enchanted with density 5, breach 4 and smite 5/bane of athropods 5 at the same time, a maxed out mace would then consist of 7 enchantments and curse of vanishing
 [𝟙.𝟚𝟙.𝟚.𝟚]
  - [𝗠𝗧𝗥] mansion has efficiency 1 chainmail leggings
-[𝟙.𝟚𝟙.𝟛𝟘.𝟚𝟛] [𝗪𝗔𝗥𝗡𝗜𝗡𝗚❗] items whose identifier starts with minecraft:item.X will be reverted and lost going forwards meaning that Camera block will be lost as well, place them down to save them (these are not retrievable in the future)
- - [𝗚𝗕𝗖] Camera Blocks for GBC will convert into camera 'spawn eggs' allowing for the camera entity to be obtained in survival
- - [𝗨𝗕𝗖] unknown blocks will convert to their original blocks in this version
+[𝟙.𝟚𝟙.𝟛𝟘.𝟚𝟛] [𝗪𝗔𝗥𝗡𝗜𝗡𝗚❗] items whose identifier starts with minecraft:item.X will be reverted and lost going forwards meaning that Camera block will be lost as well, place them down to save them (these are not retrievable in the future and can only be moved with pistons)
+ - [𝗚𝗕𝗖] Camera Blocks from GBC will convert into camera 'spawn eggs' allowing for the camera entity to be obtained in survival
  - [𝗠𝗧𝗥] mansion has efficiency 1 chainmail boots (DO BEFORE ACTIVATING BUNDLES)
  - [𝗘𝗫] Bundles can be filled with undyed shulker boxes (with bundle experiment)
 [𝟙.𝟚𝟙.𝟛𝟘.𝟚𝟜]
