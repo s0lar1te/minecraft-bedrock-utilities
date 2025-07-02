@@ -16,6 +16,8 @@ Illegal items discovered so far from this glitch:
     - [TEST] again, these can be used to brew invalid data value lingering potions which can the be used to craft invalid data value tipped arrows
        - [TEST] many of these have been found to crash the game instantly upon being processed
     - using arrows on the entangled cauldron can allow you to get invalid data value arrows ranging from data values 48-32767 and arrows of water (data value 1)
+ - using a cauldron with dye in it can allow you to get illegally dyed leather armour, leather horse armour and wolf armour
+    - almost anything you dye in this entagled cauldron will have an illegal dye colour due to there being millions of different dye values
 
 Theoretical illegal items possible to obtain from this glitch but without any evidence of anyone having managed to obtain them yet
  - Decay potions
