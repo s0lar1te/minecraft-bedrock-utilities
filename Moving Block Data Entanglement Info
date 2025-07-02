@@ -1,1 +1,28 @@
+GLitch originally discovered by: 77Tigers
+How to build the setup: https://youtu.be/t_yoam-qCyA?si=CZzNqFMZVFXhJA_J (this tutorial gets the job done)
+ID viewer texture pack: https://cdn.discordapp.com/attachments/1388031477656059904/1389290800206057542/Durability.mcpack?ex=68660fa2&is=6864be22&hm=76b90dbab0f8ac2aae261ea34dc151f232dd6f02caa2ae1d5483f155edaa5899&
 
+This glitch can be used to create 'infinite blocks' which reappear instantly when destroyed which can be used to create tnt dupers and block generators
+ - When performed on a tile entity the block does not become infinite but instead loses all of its tile entity data, in some cases causing a crash if interacted with (example: auto crafter)
+ - When the chunk containing the entangled block is unloaded it reverts to a normal block
+ - This glitch only works with blocks movable by pistons for survival purposes
+
+Illegal items discovered so far from this glitch:
+ - using a cauldron with different liquids can allow you to get many different illegals
+    - using bottles on the entangled cauldron can allow you to get invalid data value potions ranging from data values 47-32767
+       - these potions will appear to be water bottles however they will not display the 'no effects' text in the tooltip when held in the hotbar
+    - these in turn can be used to brew invalid data value splash potions ranging from data values 47-32767
+       - these potions will be named 'no effects'
+    - [TEST] again, these can be used to brew invalid data value lingering potions which can the be used to craft invalid data value tipped arrows
+       - [TEST] many of these have been found to crash the game instantly upon being processed
+    - using arrows on the entangled cauldron can allow you to get invalid data value arrows ranging from data values 48-32767 and arrows of water (data value 1)
+
+Theoretical illegal items possible to obtain from this glitch but without any evidence of anyone having managed to obtain them yet
+ - Decay potions
+ - Decay splash potions
+ - Decay lingering potions [last obtainable in 1.2.6.55 with the crafting glitch]
+ - Decay tipped arrows [obtainable from the master fletcher trade]
+ - Mundane tipped arrows
+ - Mundane extended tipped arrows
+ - Thick tipped arrows
+ - Awkward tipped arrows
