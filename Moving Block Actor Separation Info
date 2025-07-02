@@ -3,7 +3,7 @@ ID viewer texture pack: https://cdn.discordapp.com/attachments/13880314776560599
 
 This glitch can be used to create 'infinite blocks' which reappear instantly when destroyed which can be used to create tnt dupers and block generators
  - When performed on a tile entity the block does not become infinite but instead loses all of its tile entity data, in some cases causing a crash if interacted with (example: auto crafter)
- - When the chunk containing the seperated moving block actor is unloaded it reverts to a normal block
+ - When the chunk containing the separated moving block actor is unloaded it reverts to a normal block
  - This glitch only works with blocks movable by pistons for survival purposes
 
 Illegal items discovered so far from this glitch:
