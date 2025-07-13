@@ -110,5 +110,11 @@ A detailed guide to collect every illegal block and item through the versions of
  - Tall grass can be found in savanna village house chests and Large ferns can found in Taiga and snowy Taiga village house chests
  - Max level fletchers can offer Arrows of Decay
  - [𝗩𝗧] Suspicious Sand and Gravel can be obtained with this setup → https://youtu.be/srD3JmMr7EA?si=yXaFHvYykMFpQCgU
- - [𝗩𝗧] invalid data value arrows can be obtained using moving block actor separation on a cauldron with different liquids → https://youtu.be/t_yoam-qCyA?si=TTHSQBSEx33BMoXW
- - [𝗩𝗧] invalid data value splash potions can be obtained moving block actor separation on a cauldron with different liquids → https://youtu.be/t_yoam-qCyA?si=TTHSQBSEx33BMoXW
+ - [𝗩𝗧] moving block actor seperation is possible, here is what is obtainable → [ADD TUTORIAL]
+    - tipped arrows of water (damage value 1)
+    - invalid data value tipped arrows (48-32767)
+    - invalid data value potions (47-32767)
+    - invalid data value splash potions brewed from potions
+    - potions of decay, and therefore splash, lingering, tipped arrows of decay
+    - mundane extended potions, splash potions, lingering potions
+    - leather armour, leather horse armour and dog armour with invalid dye values
