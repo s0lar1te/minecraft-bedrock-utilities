@@ -113,4 +113,3 @@ A detailed guide to collect every illegal block and item through the versions of
     - invalid data value splash potions brewed from invalid data value potions (damage value 47-32767)
     - potions of decay, and therefore splash, lingering, tipped arrows of decay
     - mundane extended potions, splash potions, lingering potions
-    - leather armour, leather horse armour and dog armour with invalid dye values
