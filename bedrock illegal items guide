@@ -9,6 +9,7 @@ A detailed guide to collect every illegal block and item through the versions of
 [𝗠𝗧𝗥] - unobtainable item can be found on the first floor of the woodland mansion in the secret 'tree chopping' room that has a 'closed' doorway, the room has a tree and a chest with what is meant to be an efficiency 1 axe but is normally not
 [𝗧𝗘𝗦𝗧] - Method is untested/in testing
 [𝗠𝗕𝗣𝗧] - Mining Block Progress Transfer - A glitch that allows you to mine blocks that are normally not targetable by trasferring your progress mining a block to the untargetable block
+[𝗠𝗕𝗔 𝗦/𝗖] - Moving Block Actor Seperation/Combination - also know as the infinite block glitch
 [𝗪𝗔𝗥𝗡𝗜𝗡𝗚❗] - Risk of losing unobtainable items (will be specified)
 [𝕏.𝕏.𝕏.𝕏 → 𝕐.𝕐.𝕐.𝕐] start in version X do the thing, move to version Y
 🇬​​​​​🇺​​​​​🇮​​​​​🇩​​​​​🇪​​​​​:
@@ -27,13 +28,20 @@ A detailed guide to collect every illegal block and item through the versions of
  - Anvils with damage values 0,1,2,3 can be obtained by them breaking when falling onto a torch (these will be used to obtain the broken anvil)
 [𝟙.𝟙.𝟝.𝟘]
  - Place down the anvils with damage values of 0,1,2,3 from 1.0.0.16
- - [𝗠𝗕𝗣𝗧] [𝗩𝗧] moving blocks can be obtained with this setup requiring at least an efficiency 4 diamond pickaxe → https://youtu.be/Idv-LM_lQfM?si=EuFEdr_mROYxYbAe
+ - [𝗩𝗧] moving blocks can be obtained with this setup requiring at least an efficiency 4 diamond pickaxe → https://youtu.be/Idv-LM_lQfM?si=EuFEdr_mROYxYbAe
 [𝟙.𝟚.𝟛.𝟛]
  - Mob spawner blocks can be obtained by mining them
  - 'Russian Doll Shulker Boxes' can be made with a hopper (undyed shulkers in undyed shulkers)
- - [𝗧/𝗘] [𝗩𝗧] Mob Spawners, Fire and Redstone Wires can be obtained using STRING2 using this setup here however only use one shulker box with 27 stone, one in each slot renamed to STRING2, you will need the anvil limit remover pack → (https://youtu.be/86Rkopc-lRk?si=RFgpHCKqDjS8YSFg)
- - [𝗧/𝗘] [𝗩𝗧] Lit Furnaces, Piston Arm Collisions, Standing Signs, Redstone Wires and Mob Spawners can be obtained using STRING4 using this setup here however only use one shulker box with 27 stone, one in each slot renamed to STRING4, you will need the anvil limit remover pack → (https://youtu.be/86Rkopc-lRk?si=RFgpHCKqDjS8YSFg)
- - [𝗧/𝗘] [𝗩𝗧] Redstone Wires, Piston Arm Collisions, Smooth Stone Double Slabs, Lit Furnaces and Farmland can be obtained using STRING5 using this setup here however only use one shulker box with 27 stone, one in each slot renamed to STRING5, you will need the anvil limit remover pack → (https://youtu.be/86Rkopc-lRk?si=RFgpHCKqDjS8YSFg)
+ - [𝗧/𝗘] [𝗩𝗧] Inventory Data Overload Corruption is possible, you will need the anvil limit remover pack → (https://youtu.be/86Rkopc-lRk?si=RFgpHCKqDjS8YSFg)
+    - only use one shulker box with 27 stone, one in each slot renamed to STRING2 or STRING4 or STRING5, these blocks are obtainable:
+    - Mob Spawner
+    - Fire
+    - Redstone Wire
+    - Lit Furnace
+    - Piston Arm Collision
+    - Oak Standing Signs
+    - Smooth Stone Double Slabs
+    - Farmland
 [𝟙.𝟚.𝟙𝟘.𝟚]
  - Wall Banner and Standing Banner can be obtained with silk touch
 [𝟙.𝟚.𝟙𝟛.𝟝𝟜]
@@ -108,7 +116,7 @@ A detailed guide to collect every illegal block and item through the versions of
  - Tall grass can be found in savanna village house chests and Large ferns can found in Taiga and snowy Taiga village house chests
  - Max level fletchers can offer Arrows of Decay
  - [𝗩𝗧] Suspicious Sand and Gravel can be obtained with this setup → https://youtu.be/srD3JmMr7EA?si=yXaFHvYykMFpQCgU
- - [𝗩𝗧] moving block actor separation is possible, here is what is obtainable → [ADD TUTORIAL]
+ - [𝗠𝗕𝗔 𝗦/𝗖] [𝗩𝗧] moving block actor separation is possible, here is what is obtainable → [ADD TUTORIAL]
     - tipped arrows of water (damage value 1, 48-32767)
     - invalid data value splash potions brewed from invalid data value potions (damage value 47-32767)
     - potions of decay, and therefore splash, lingering, tipped arrows of decay
