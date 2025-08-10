@@ -114,11 +114,12 @@ A detailed guide to collect every illegal block and item through the versions of
  - [𝗘𝗫] [𝗠𝗧𝗥] mansion has efficiency 1 iron helmet (with bundle experiment)
 [𝟙.𝟚𝟙.𝟟𝟙.𝟙]
  - [𝗠𝗧𝗥] mansion has efficiency 1 golden apple (fake notch apples are real!)
- - [𝗠𝗕𝗔 𝗦/𝗖] [𝗩𝗧] moving block actor separation is possible, here is what is obtainable → [ADD TUTORIAL]
+ - [𝗠𝗕𝗔 𝗦/𝗖] moving block actor separation is possible, here is what is obtainable: For the invalid potions and tipped arrows, use a water cauldron in place of the tnt with this setup and then use bottles and arrows on the glitched cauldron produced, you may have to repeat this multiple times → https://www.youtube.com/watch?v=t_yoam-qCyA
     - tipped arrows of water (damage value 1, 48-32767)
     - invalid data value splash potions brewed from invalid data value potions (damage value 47-32767)
     - potions of decay, and therefore splash, lingering, tipped arrows of decay
     - mundane extended potions, splash potions, lingering potions
+    - for the mundane extended and decay potions you should use this setup but put a cauldron in place of the furnace, then get a potion with a damage value higher than the target potion in this case night vision for mundane extended and slow falling for decay and quickly tap on the cauldron twice putting the potion in and out as fast as possible, this should decrease the damage value by one, keep doing this until you gte the target potion or a water bottle → https://youtu.be/9qdDuUybPms?si=BS9Mbf8Y7bYY8I8x 
 🇨​​​​​🇺​​​​​🇷​​​​​🇷​​​​​🇪​​​​​🇳​​​​​🇹​​​​​ 🇻​​​​​🇪​​​​​🇷​​​​​🇸​​​​​🇮​​​​​🇴​​​​​🇳​​​​​
 [𝟙.𝟚𝟙.𝟙𝟘𝟘.𝟞]
  - Shears can be enchanted with silk touch
